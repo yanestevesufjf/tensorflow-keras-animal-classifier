@@ -14,11 +14,6 @@
 
 # results
 
-Épocas | ValidationSplit | Results 
-1      | 10%             | 61%
-3      | 10%             | 72%
-10     | 10%             | 91%
-
 | Epochs | ValidationSplit | Results
 | --- | --- | --- |
 1 | 10% | 61%
