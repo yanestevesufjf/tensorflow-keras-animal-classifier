@@ -1,0 +1,5 @@
+dataset
+venv-dogcats
+logs
+.ipynb_checkpoints
+*.pickle
